@@ -1,0 +1,110 @@
+#debtor_section {
+    box-shadow: 1px 2px 6px 3px lightgrey;
+    padding-top: 26px;
+    height: 900px;
+}
+
+span {
+    font-weight: 500;
+    font-size: 13px;
+}
+
+#sub_headers {
+    font-weight: 500;
+    color: #12ade8;
+    font-size: 16px;
+    padding-left: 5px;
+}
+
+.form-control {
+    background-color: #d3d3d35e !important;
+}
+
+select.form-control {
+    appearance: auto;
+    background-color: #d3d3d35e !important;
+}
+
+#deb_Agent {
+    padding: 0px 19px !important;
+}
+
+.name {
+    padding: 10px;
+}
+
+#bic {
+    float: right;
+    width: 62%;
+}
+
+#bcc1 {
+    float: right;
+    width: 34%;
+    margin-left: 9px;
+    margin-right: -25px;
+}
+
+#bcc2 {
+    float: right;
+    width: 29%;
+    margin-left: 26px;
+}
+
+#iname {
+    float: right;
+    width: 62%;
+}
+
+.accordian {
+    font-weight: 500;
+    font-size: 15px;
+    color: #12ade8
+}
+
+.more {
+    font-size: 10px;
+    color: #12ade8;
+    padding-left: 5px;
+}
+
+#debt_iname {
+    float: right;
+    width: 62%;
+}
+
+#debt_or {
+    padding: 11px 19px !important;
+}
+
+.fas.fa-angle-right,
+.fas.fa-angle-down {
+    color: #12ade8 !important;
+}
+
+#debt {
+    padding: 10px 10px !important;
+}
+
+.subheaders_align {
+    padding-left: 17px;
+}
+
+.showsummary {
+    float: right;
+    padding-right: 30px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #1c0dfd;
+}
+
+.customerfi {
+    float: right;
+    padding-right: 26px;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.row.subheaders_align_debt {
+    padding-left: 30px;
+}
